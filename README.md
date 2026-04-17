@@ -59,7 +59,7 @@ ai-crm-hcp/
 ### 1️⃣ Clone Repo
 
 ```
-git clone https://github.com/your-username/ai-crm-hcp.git
+git clone https://github.com/aniljiA1/anilaivoatask.git
 cd ai-crm-hcp
 ```
 
@@ -137,12 +137,7 @@ https://anilaivoatask.vercel.app/
  https://anilaivoatask.vercel.app/
 ---
 
-## 🔥 Future Improvements
 
-* 📈 Dashboard analytics
-* 🧠 AI with doctor history context
-* 🔔 Follow-up reminders
-* 🗄️ PostgreSQL integration
 
 ---
 
@@ -152,6 +147,3 @@ https://anilaivoatask.vercel.app/
 
 ---
 
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
